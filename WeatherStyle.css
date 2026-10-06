@@ -26,8 +26,8 @@ h1 {
 }
 
 .weather-icon {
-    font-size: 70px;
-    animation: floatCloud 3s infinite alternate;
+    font-size: 100px;
+    animation: floatCloud 2s infinite alternate;
 }
 
 #temperature {
@@ -64,7 +64,7 @@ h1 {
         transform: translateY(0);
     }
     to {
-        transform: translateY(20px);
+        transform: translateY(50px);
     }
 }
 
